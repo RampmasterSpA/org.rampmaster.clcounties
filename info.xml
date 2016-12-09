@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<extension key="org.rampmaster.clcounties" type="module">
+  <file>clcounties</file>
+  <name>CL County Loader</name>
+  <description>Loads counties of Chile</description>
+  <license>AGPL-3.0</license>
+  <maintainer>
+    <author>Roberto Moreno</author>
+    <email>soporte@rampmaster.org</email>
+  </maintainer>
+  <releaseDate>2016-12-09</releaseDate>
+  <version>1.0</version>
+  <develStage>stable</develStage>
+  <urls>
+	  <url desc="documentation">http://aghstrategies.com/counties</url>
+  </urls>
+  <compatibility>
+    <ver>4.4</ver>
+    <ver>4.5</ver>
+    <ver>4.6</ver>
+  </compatibility>
+  <comments>Use this extension to load counties for Chile.  After installation, this extension does nothing (and can even be disabled).</comments>
+</extension>
